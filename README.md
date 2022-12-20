@@ -1,4 +1,4 @@
-Voice Announcement
+### Voice Announcement
 Allow a Salesforce user to create ad hoc announcements and closures within their Service Cloud Voice contact center.
 
 Demonstrates the Salesforce/Amazon Connector pattern. There are several parts to this pattern.
